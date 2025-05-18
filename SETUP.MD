@@ -1,4 +1,4 @@
--   **SSH into your Vast.ai instance**:
+-   **SSH into your Vast.ai instance** (preferable to do this in an IDE):
     
     ```
     ssh username@your-instance-ip -p port_number
